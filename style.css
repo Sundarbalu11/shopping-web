@@ -141,9 +141,19 @@
     width: 80px;
     text-align: center;
 	}
-.box a:hover{
+.box .size_hover:hover{
 	background-color:blue;
 	color:white;
+}
+.size_hover_none{
+	text-decoration: none;
+	border: 2px solid #f3f5f4; 
+    border-radius: 5px;
+    color: black;
+    padding: 20px;
+    background-color:white ;
+    width: 80px;
+    text-align: center;
 }
 /* box section end */
 /* button section start */
